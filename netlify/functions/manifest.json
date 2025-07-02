@@ -1,0 +1,25 @@
+{
+  "name": "NATA QR",
+  "short_name": "NATA QR",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2f2c2b",
+  "background_color": "#2f2c2b",
+  "icons": [
+    {
+      "src": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/3LlbgZJWVq2XsrF6zL5n/pub/IjuCDlcsAr7bKTubWUwd.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/3LlbgZJWVq2XsrF6zL5n/pub/IjuCDlcsAr7bKTubWUwd.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/3LlbgZJWVq2XsrF6zL5n/pub/IjuCDlcsAr7bKTubWUwd.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
